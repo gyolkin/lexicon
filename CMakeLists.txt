@@ -9,6 +9,8 @@ include_directories(include)
 set(SOURCES
     src/main.c
     src/files.c
+    src/scanner.c
+    src/utils.c
 )
 
 add_executable(lexicon ${SOURCES})
