@@ -1,0 +1,3 @@
+Munus fib n = Sinon n I ((fib n - I) + (fib n - II))
+As n = Anagnosi
+Grafo fib n

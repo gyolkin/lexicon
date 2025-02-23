@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# CMake
+lexicon
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+Makefile
